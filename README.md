@@ -1,5 +1,5 @@
 # GitPractice
-# Daily Chat <img src="assets/images/appicon.png" width="80" height="80"/>
+# Daily Chat 
 
 ## 💣Problem:
 Due to current Scenario, most of the colleges runs online and new college students don't even get a chance to interact with seniors and teachers. This increases the gap between college new students and teachers. 
